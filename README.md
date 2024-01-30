@@ -9,3 +9,7 @@
 3. Extend the code to take in a **country** and a **capital** at same time, then generate response informing user if the values supplied were a correct county/capital match.
 4. Handle the few countries with multiple capitals.
 5. Add currency, national languages, etc.
+
+## Working API URL Example
+
+[Example Request](https://capital-finder-ivory-ten.vercel.app/api?country=ghana)
